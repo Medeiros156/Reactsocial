@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reactsocial/static/css/main.718edfeb.css",
+    "main.js": "/Reactsocial/static/js/main.06139f9d.js",
+    "index.html": "/Reactsocial/index.html",
+    "main.718edfeb.css.map": "/Reactsocial/static/css/main.718edfeb.css.map",
+    "main.06139f9d.js.map": "/Reactsocial/static/js/main.06139f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.718edfeb.css",
+    "static/js/main.06139f9d.js"
+  ]
+}
