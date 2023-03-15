@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Reactsocial/static/css/main.718edfeb.css",
-    "main.js": "/Reactsocial/static/js/main.cf6afcb3.js",
+    "main.js": "/Reactsocial/static/js/main.4bace6d0.js",
     "index.html": "/Reactsocial/index.html",
     "main.718edfeb.css.map": "/Reactsocial/static/css/main.718edfeb.css.map",
-    "main.cf6afcb3.js.map": "/Reactsocial/static/js/main.cf6afcb3.js.map"
+    "main.4bace6d0.js.map": "/Reactsocial/static/js/main.4bace6d0.js.map"
   },
   "entrypoints": [
     "static/css/main.718edfeb.css",
-    "static/js/main.cf6afcb3.js"
+    "static/js/main.4bace6d0.js"
   ]
 }
