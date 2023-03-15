@@ -1,7 +1,7 @@
 import Login from "./pages/login/Login";
 import Register from "./pages/register/Register";
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
   Route,
   Outlet,
@@ -45,7 +45,7 @@ function App() {
     return children;
   };
 
-  const router = createBrowserRouter([
+  const router = createHashRouter([
     {
       path: "/",
       element: (
